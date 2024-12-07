@@ -41,7 +41,7 @@ dataset_configs:
   dataset_registry: "PupilDiameter"
   dataset_registry_params:
     selected_targets: ["left_pupil"] # any from: ["left_pupil", "right_pupil"]
-    img_size: [32, 32]  # eg:[32, 64], [64, 128]
+    img_size: [32, 64]  # eg:[32, 64], [64, 128]
     img_mode: "RGB"
     augment: false
     # augmentation_configs:
