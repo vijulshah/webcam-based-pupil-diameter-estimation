@@ -120,7 +120,7 @@ You can view the app 🤗 [here](https://huggingface.co/spaces/vijulshah/eyedent
 
 The following are BibTeX references. The BibTeX entry requires the `url` LaTeX package.
 
-If `EyeDentify` helps your research or work, please cite EyeDentify.
+If `EyeDentify` helps your research or work, please cite <a href="https://arxiv.org/abs/2407.11204">EyeDentify</a>.
 ``` latex
 @article{shah2024eyedentify,
   title={Eyedentify: A dataset for pupil diameter estimation based on webcam images},
@@ -130,7 +130,7 @@ If `EyeDentify` helps your research or work, please cite EyeDentify.
 }
 ```
 
-If `EyeDentify++` helps your research or work, please cite EyeDentify++.
+If `EyeDentify++` helps your research or work, please cite <a href="https://www.arxiv.org/abs/2408.10397">EyeDentify++</a>.
 ``` latex
 @article{shah2024webcam,
   title={Webcam-based Pupil Diameter Prediction Benefits from Upscaling},
